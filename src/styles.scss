@@ -1,0 +1,15 @@
+
+$theme-colors: (
+  "primary": rgb(49, 204, 96),
+  "danger": #fc3434
+);
+
+.nav >nav-pills .mb-3
+{
+  background-color: black;
+}
+
+@import "node_modules/bootstrap/scss/bootstrap";
+
+
+
